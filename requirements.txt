@@ -1,2 +1,11 @@
 pandas
 numpy
+pandas
+numpy
+plotly 
+seaborn
+chart_studio
+WordCloud 
+scikit-learn
+nltk
+xgboost 
