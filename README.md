@@ -9,7 +9,7 @@ Instructions for running jupyter notebook
 <br>
 
 
-## Examples
+## Setup 
 To run this notebook you will need to:
 - run the requirements file. It will be something like pip install -r requirements.txt 
 (see https://stackoverflow.com/questions/7225900/how-to-install-packages-using-pip-according-to-the-requirements-txt-file-from-a  
