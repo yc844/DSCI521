@@ -19,4 +19,5 @@ for more information or examples)
 - (or included in this zip file it will unzip as part of the whole package) 
 - Download to the same directory as this notebook. No /data directory needed 
 - Run the cells in the order of the notebook 
+- WARNING: if you run this from mybinder.org there will probably be issues with Spacy as the "en_core_web_sm" doesn't link correctly. I would recommend running this locally. 
 <br>
